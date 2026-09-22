@@ -293,7 +293,7 @@ if not st.session_state.is_logged_in:
                 unsafe_allow_html=True
             )
         
-        st.markdown("<h2 style='text-align: center;'>Simulasi TKA Cabdin Bangkalan</h2>", unsafe_allow_html=True)
+        st.markdown("<h2 style='text-align: center;'>Uji Coba TKA Cabdin Bangkalan</h2>", unsafe_allow_html=True)
         st.markdown("<p style='text-align: center; font-weight: 700;'>Silakan masukkan Email dan Token Unik sekolah Anda yang terdaftar.</p>", unsafe_allow_html=True)
         
         with st.form("form_login_sekolah"):
