@@ -435,8 +435,8 @@ if menu_pilihan == "Simulasi Ujian":
         st.markdown(
             """
             <div style='text-align: center; line-height: 1.2; margin-bottom: 10px;'>
-                <h2 style='margin: 0px; padding: 0px;'>Simulasi TKA SMA/SMK - Cabdin Bangkalan</h2>
-                <h3 style='margin: 2px 0px 0px 0px; padding: 0px;'>Tes Kemampuan Akademik Berbasis Bank Soal Terpadu</h3>
+                <h2 style='margin: 0px; padding: 0px;'>Uji Coba TKA SMA/SMK - Cabdin Bangkalan</h2>
+                <h3 style='margin: 2px 0px 0px 0px; padding: 0px;'>Berbasis Bank Soal Terpadu</h3>
             </div>
             <p style='text-align: center; font-weight: 700; margin: 0px 0px 10px 0px;'>
                 Silakan pilih Kelas dan Nama Siswa dari data yang telah diunggah melalui menu Manajemen Data Siswa.
